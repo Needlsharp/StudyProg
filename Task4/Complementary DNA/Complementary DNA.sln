@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33130.400
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Complementary DNA", "Complementary DNA.csproj", "{FD27D90C-86CD-49BB-AB4F-3ED63C7A039E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD27D90C-86CD-49BB-AB4F-3ED63C7A039E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD27D90C-86CD-49BB-AB4F-3ED63C7A039E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD27D90C-86CD-49BB-AB4F-3ED63C7A039E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD27D90C-86CD-49BB-AB4F-3ED63C7A039E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7A578C6B-B3D3-40EC-A34B-72DD9D41E015}
+	EndGlobalSection
+EndGlobal

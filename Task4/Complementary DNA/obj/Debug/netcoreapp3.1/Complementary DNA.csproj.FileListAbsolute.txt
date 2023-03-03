@@ -1,0 +1,16 @@
+D:\VS_Project\StudyProg\Task4\Complementary DNA\bin\Debug\netcoreapp3.1\Complementary DNA.exe
+D:\VS_Project\StudyProg\Task4\Complementary DNA\bin\Debug\netcoreapp3.1\Complementary DNA.deps.json
+D:\VS_Project\StudyProg\Task4\Complementary DNA\bin\Debug\netcoreapp3.1\Complementary DNA.runtimeconfig.json
+D:\VS_Project\StudyProg\Task4\Complementary DNA\bin\Debug\netcoreapp3.1\Complementary DNA.runtimeconfig.dev.json
+D:\VS_Project\StudyProg\Task4\Complementary DNA\bin\Debug\netcoreapp3.1\Complementary DNA.dll
+D:\VS_Project\StudyProg\Task4\Complementary DNA\bin\Debug\netcoreapp3.1\Complementary DNA.pdb
+D:\VS_Project\StudyProg\Task4\Complementary DNA\bin\Debug\netcoreapp3.1\nunit.framework.dll
+D:\VS_Project\StudyProg\Task4\Complementary DNA\obj\Debug\netcoreapp3.1\Complementary DNA.csproj.AssemblyReference.cache
+D:\VS_Project\StudyProg\Task4\Complementary DNA\obj\Debug\netcoreapp3.1\Complementary DNA.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS_Project\StudyProg\Task4\Complementary DNA\obj\Debug\netcoreapp3.1\Complementary DNA.AssemblyInfoInputs.cache
+D:\VS_Project\StudyProg\Task4\Complementary DNA\obj\Debug\netcoreapp3.1\Complementary DNA.AssemblyInfo.cs
+D:\VS_Project\StudyProg\Task4\Complementary DNA\obj\Debug\netcoreapp3.1\Complementary DNA.csproj.CoreCompileInputs.cache
+D:\VS_Project\StudyProg\Task4\Complementary DNA\obj\Debug\netcoreapp3.1\Complementary DNA.csproj.CopyComplete
+D:\VS_Project\StudyProg\Task4\Complementary DNA\obj\Debug\netcoreapp3.1\Complementary DNA.dll
+D:\VS_Project\StudyProg\Task4\Complementary DNA\obj\Debug\netcoreapp3.1\Complementary DNA.pdb
+D:\VS_Project\StudyProg\Task4\Complementary DNA\obj\Debug\netcoreapp3.1\Complementary DNA.genruntimeconfig.cache

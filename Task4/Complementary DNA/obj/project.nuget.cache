@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "eL2x32m7BhmuaVwyJ5vrCCAL3A4cMSJbF+GWvDsfBC3W0oJqo14LaSY9O2uw6P4qfNtz4wCQx131UTZVpVRKfw==",
+  "success": true,
+  "projectFilePath": "D:\\VS_Project\\StudyProg\\Task4\\Complementary DNA\\Complementary DNA.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Companero\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Companero\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\Companero\\.nuget\\packages\\nunit\\3.13.3\\nunit.3.13.3.nupkg.sha512"
+  ],
+  "logs": []
+}
