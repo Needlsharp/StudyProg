@@ -1,0 +1,16 @@
+D:\VS_Project\StudyProg\Task3\Shortest Word\bin\Debug\netcoreapp3.1\Shortest Word.exe
+D:\VS_Project\StudyProg\Task3\Shortest Word\bin\Debug\netcoreapp3.1\Shortest Word.deps.json
+D:\VS_Project\StudyProg\Task3\Shortest Word\bin\Debug\netcoreapp3.1\Shortest Word.runtimeconfig.json
+D:\VS_Project\StudyProg\Task3\Shortest Word\bin\Debug\netcoreapp3.1\Shortest Word.runtimeconfig.dev.json
+D:\VS_Project\StudyProg\Task3\Shortest Word\bin\Debug\netcoreapp3.1\Shortest Word.dll
+D:\VS_Project\StudyProg\Task3\Shortest Word\bin\Debug\netcoreapp3.1\Shortest Word.pdb
+D:\VS_Project\StudyProg\Task3\Shortest Word\bin\Debug\netcoreapp3.1\nunit.framework.dll
+D:\VS_Project\StudyProg\Task3\Shortest Word\obj\Debug\netcoreapp3.1\Shortest Word.csproj.AssemblyReference.cache
+D:\VS_Project\StudyProg\Task3\Shortest Word\obj\Debug\netcoreapp3.1\Shortest Word.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS_Project\StudyProg\Task3\Shortest Word\obj\Debug\netcoreapp3.1\Shortest Word.AssemblyInfoInputs.cache
+D:\VS_Project\StudyProg\Task3\Shortest Word\obj\Debug\netcoreapp3.1\Shortest Word.AssemblyInfo.cs
+D:\VS_Project\StudyProg\Task3\Shortest Word\obj\Debug\netcoreapp3.1\Shortest Word.csproj.CoreCompileInputs.cache
+D:\VS_Project\StudyProg\Task3\Shortest Word\obj\Debug\netcoreapp3.1\Shortest Word.csproj.CopyComplete
+D:\VS_Project\StudyProg\Task3\Shortest Word\obj\Debug\netcoreapp3.1\Shortest Word.dll
+D:\VS_Project\StudyProg\Task3\Shortest Word\obj\Debug\netcoreapp3.1\Shortest Word.pdb
+D:\VS_Project\StudyProg\Task3\Shortest Word\obj\Debug\netcoreapp3.1\Shortest Word.genruntimeconfig.cache
