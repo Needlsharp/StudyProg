@@ -1,0 +1,32 @@
+D:\VS_Project\StudyProg\Task4\Find the odd int\bin\Debug\netcoreapp3.1\Find the odd int.exe
+D:\VS_Project\StudyProg\Task4\Find the odd int\bin\Debug\netcoreapp3.1\Find the odd int.deps.json
+D:\VS_Project\StudyProg\Task4\Find the odd int\bin\Debug\netcoreapp3.1\Find the odd int.runtimeconfig.json
+D:\VS_Project\StudyProg\Task4\Find the odd int\bin\Debug\netcoreapp3.1\Find the odd int.runtimeconfig.dev.json
+D:\VS_Project\StudyProg\Task4\Find the odd int\bin\Debug\netcoreapp3.1\Find the odd int.dll
+D:\VS_Project\StudyProg\Task4\Find the odd int\bin\Debug\netcoreapp3.1\Find the odd int.pdb
+D:\VS_Project\StudyProg\Task4\Find the odd int\bin\Debug\netcoreapp3.1\nunit.framework.dll
+D:\VS_Project\StudyProg\Task4\Find the odd int\obj\Debug\netcoreapp3.1\Find the odd int.csproj.AssemblyReference.cache
+D:\VS_Project\StudyProg\Task4\Find the odd int\obj\Debug\netcoreapp3.1\Find the odd int.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS_Project\StudyProg\Task4\Find the odd int\obj\Debug\netcoreapp3.1\Find the odd int.AssemblyInfoInputs.cache
+D:\VS_Project\StudyProg\Task4\Find the odd int\obj\Debug\netcoreapp3.1\Find the odd int.AssemblyInfo.cs
+D:\VS_Project\StudyProg\Task4\Find the odd int\obj\Debug\netcoreapp3.1\Find the odd int.csproj.CoreCompileInputs.cache
+D:\VS_Project\StudyProg\Task4\Find the odd int\obj\Debug\netcoreapp3.1\Find the odd int.csproj.CopyComplete
+D:\VS_Project\StudyProg\Task4\Find the odd int\obj\Debug\netcoreapp3.1\Find the odd int.dll
+D:\VS_Project\StudyProg\Task4\Find the odd int\obj\Debug\netcoreapp3.1\Find the odd int.pdb
+D:\VS_Project\StudyProg\Task4\Find the odd int\obj\Debug\netcoreapp3.1\Find the odd int.genruntimeconfig.cache
+D:\VS_Project\StudyProg\Task5\Find the odd int\bin\Debug\netcoreapp3.1\Find the odd int.exe
+D:\VS_Project\StudyProg\Task5\Find the odd int\bin\Debug\netcoreapp3.1\Find the odd int.deps.json
+D:\VS_Project\StudyProg\Task5\Find the odd int\bin\Debug\netcoreapp3.1\Find the odd int.runtimeconfig.json
+D:\VS_Project\StudyProg\Task5\Find the odd int\bin\Debug\netcoreapp3.1\Find the odd int.runtimeconfig.dev.json
+D:\VS_Project\StudyProg\Task5\Find the odd int\bin\Debug\netcoreapp3.1\Find the odd int.dll
+D:\VS_Project\StudyProg\Task5\Find the odd int\bin\Debug\netcoreapp3.1\Find the odd int.pdb
+D:\VS_Project\StudyProg\Task5\Find the odd int\bin\Debug\netcoreapp3.1\nunit.framework.dll
+D:\VS_Project\StudyProg\Task5\Find the odd int\obj\Debug\netcoreapp3.1\Find the odd int.csproj.AssemblyReference.cache
+D:\VS_Project\StudyProg\Task5\Find the odd int\obj\Debug\netcoreapp3.1\Find the odd int.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS_Project\StudyProg\Task5\Find the odd int\obj\Debug\netcoreapp3.1\Find the odd int.AssemblyInfoInputs.cache
+D:\VS_Project\StudyProg\Task5\Find the odd int\obj\Debug\netcoreapp3.1\Find the odd int.AssemblyInfo.cs
+D:\VS_Project\StudyProg\Task5\Find the odd int\obj\Debug\netcoreapp3.1\Find the odd int.csproj.CoreCompileInputs.cache
+D:\VS_Project\StudyProg\Task5\Find the odd int\obj\Debug\netcoreapp3.1\Find the odd int.csproj.CopyComplete
+D:\VS_Project\StudyProg\Task5\Find the odd int\obj\Debug\netcoreapp3.1\Find the odd int.dll
+D:\VS_Project\StudyProg\Task5\Find the odd int\obj\Debug\netcoreapp3.1\Find the odd int.pdb
+D:\VS_Project\StudyProg\Task5\Find the odd int\obj\Debug\netcoreapp3.1\Find the odd int.genruntimeconfig.cache
