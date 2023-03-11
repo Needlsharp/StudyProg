@@ -9,11 +9,11 @@ namespace Sum_of_Digits_Digital_Root
     {
         public static void Main(string[] args)
         {
-            long n = 2;
+            long n = 2984156454988465431;
 
 
             int[] arr = Calculate(n);
-            
+
             while (arr.Length > 1)
             {
                 n = arr.Sum();
@@ -21,17 +21,12 @@ namespace Sum_of_Digits_Digital_Root
             }
 
             Console.WriteLine(arr[0]);
-            int[] Calculate (long n) 
+            int[] Calculate(long n)
             {
                 return n.ToString().Select(x => int.Parse(x.ToString())).ToArray();
             }
-        
+        }
 
-            //foreach (var item in intList)
-            //{
-            //    Console.Write(item+" ");
-            //}
-            }
     }
 
 }
