@@ -1,0 +1,16 @@
+D:\VS_Project\StudyProg\Task6\Sum of Digits Digital Root\bin\Debug\netcoreapp3.1\Sum of Digits Digital Root.exe
+D:\VS_Project\StudyProg\Task6\Sum of Digits Digital Root\bin\Debug\netcoreapp3.1\Sum of Digits Digital Root.deps.json
+D:\VS_Project\StudyProg\Task6\Sum of Digits Digital Root\bin\Debug\netcoreapp3.1\Sum of Digits Digital Root.runtimeconfig.json
+D:\VS_Project\StudyProg\Task6\Sum of Digits Digital Root\bin\Debug\netcoreapp3.1\Sum of Digits Digital Root.runtimeconfig.dev.json
+D:\VS_Project\StudyProg\Task6\Sum of Digits Digital Root\bin\Debug\netcoreapp3.1\Sum of Digits Digital Root.dll
+D:\VS_Project\StudyProg\Task6\Sum of Digits Digital Root\bin\Debug\netcoreapp3.1\Sum of Digits Digital Root.pdb
+D:\VS_Project\StudyProg\Task6\Sum of Digits Digital Root\bin\Debug\netcoreapp3.1\nunit.framework.dll
+D:\VS_Project\StudyProg\Task6\Sum of Digits Digital Root\obj\Debug\netcoreapp3.1\Sum of Digits Digital Root.csproj.AssemblyReference.cache
+D:\VS_Project\StudyProg\Task6\Sum of Digits Digital Root\obj\Debug\netcoreapp3.1\Sum of Digits Digital Root.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS_Project\StudyProg\Task6\Sum of Digits Digital Root\obj\Debug\netcoreapp3.1\Sum of Digits Digital Root.AssemblyInfoInputs.cache
+D:\VS_Project\StudyProg\Task6\Sum of Digits Digital Root\obj\Debug\netcoreapp3.1\Sum of Digits Digital Root.AssemblyInfo.cs
+D:\VS_Project\StudyProg\Task6\Sum of Digits Digital Root\obj\Debug\netcoreapp3.1\Sum of Digits Digital Root.csproj.CoreCompileInputs.cache
+D:\VS_Project\StudyProg\Task6\Sum of Digits Digital Root\obj\Debug\netcoreapp3.1\Sum of Digits Digital Root.csproj.CopyComplete
+D:\VS_Project\StudyProg\Task6\Sum of Digits Digital Root\obj\Debug\netcoreapp3.1\Sum of Digits Digital Root.dll
+D:\VS_Project\StudyProg\Task6\Sum of Digits Digital Root\obj\Debug\netcoreapp3.1\Sum of Digits Digital Root.pdb
+D:\VS_Project\StudyProg\Task6\Sum of Digits Digital Root\obj\Debug\netcoreapp3.1\Sum of Digits Digital Root.genruntimeconfig.cache

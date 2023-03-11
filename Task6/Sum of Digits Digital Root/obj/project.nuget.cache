@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "GKlsGNTYwVxYESHdhHpUWZysnGcUX4tu0k6Ey5Iw8X+TJ0zSwycg11Qg/85rVGxR8YONJxyhn1wjVq5kVPVz7Q==",
+  "success": true,
+  "projectFilePath": "D:\\VS_Project\\StudyProg\\Task6\\Sum of Digits Digital Root\\Sum of Digits Digital Root.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Companero\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Companero\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\Companero\\.nuget\\packages\\nunit\\3.13.3\\nunit.3.13.3.nupkg.sha512"
+  ],
+  "logs": []
+}
