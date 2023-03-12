@@ -1,0 +1,16 @@
+D:\VS_Project\StudyProg\Task7\Array.diff\bin\Debug\netcoreapp3.1\Array.diff.exe
+D:\VS_Project\StudyProg\Task7\Array.diff\bin\Debug\netcoreapp3.1\Array.diff.deps.json
+D:\VS_Project\StudyProg\Task7\Array.diff\bin\Debug\netcoreapp3.1\Array.diff.runtimeconfig.json
+D:\VS_Project\StudyProg\Task7\Array.diff\bin\Debug\netcoreapp3.1\Array.diff.runtimeconfig.dev.json
+D:\VS_Project\StudyProg\Task7\Array.diff\bin\Debug\netcoreapp3.1\Array.diff.dll
+D:\VS_Project\StudyProg\Task7\Array.diff\bin\Debug\netcoreapp3.1\Array.diff.pdb
+D:\VS_Project\StudyProg\Task7\Array.diff\bin\Debug\netcoreapp3.1\nunit.framework.dll
+D:\VS_Project\StudyProg\Task7\Array.diff\obj\Debug\netcoreapp3.1\Array.diff.csproj.AssemblyReference.cache
+D:\VS_Project\StudyProg\Task7\Array.diff\obj\Debug\netcoreapp3.1\Array.diff.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS_Project\StudyProg\Task7\Array.diff\obj\Debug\netcoreapp3.1\Array.diff.AssemblyInfoInputs.cache
+D:\VS_Project\StudyProg\Task7\Array.diff\obj\Debug\netcoreapp3.1\Array.diff.AssemblyInfo.cs
+D:\VS_Project\StudyProg\Task7\Array.diff\obj\Debug\netcoreapp3.1\Array.diff.csproj.CoreCompileInputs.cache
+D:\VS_Project\StudyProg\Task7\Array.diff\obj\Debug\netcoreapp3.1\Array.diff.csproj.CopyComplete
+D:\VS_Project\StudyProg\Task7\Array.diff\obj\Debug\netcoreapp3.1\Array.diff.dll
+D:\VS_Project\StudyProg\Task7\Array.diff\obj\Debug\netcoreapp3.1\Array.diff.pdb
+D:\VS_Project\StudyProg\Task7\Array.diff\obj\Debug\netcoreapp3.1\Array.diff.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "7rwCeDuSuNyjSf/bu+x6MJPXTI8QH8JiO+AR0JVj+yV6pHq3vepwdLh7x71P9595nLg73aA3lQevP9ttvLqNhA==",
+  "success": true,
+  "projectFilePath": "D:\\VS_Project\\StudyProg\\Task7\\Array.diff\\Array.diff.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Companero\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Companero\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\Companero\\.nuget\\packages\\nunit\\3.13.3\\nunit.3.13.3.nupkg.sha512"
+  ],
+  "logs": []
+}
