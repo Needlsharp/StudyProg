@@ -1,0 +1,14 @@
+D:\VS_Project\StudyProg\Task7\Traine\bin\Debug\netcoreapp3.1\Traine.exe
+D:\VS_Project\StudyProg\Task7\Traine\bin\Debug\netcoreapp3.1\Traine.deps.json
+D:\VS_Project\StudyProg\Task7\Traine\bin\Debug\netcoreapp3.1\Traine.runtimeconfig.json
+D:\VS_Project\StudyProg\Task7\Traine\bin\Debug\netcoreapp3.1\Traine.runtimeconfig.dev.json
+D:\VS_Project\StudyProg\Task7\Traine\bin\Debug\netcoreapp3.1\Traine.dll
+D:\VS_Project\StudyProg\Task7\Traine\bin\Debug\netcoreapp3.1\Traine.pdb
+D:\VS_Project\StudyProg\Task7\Traine\obj\Debug\netcoreapp3.1\Traine.csproj.AssemblyReference.cache
+D:\VS_Project\StudyProg\Task7\Traine\obj\Debug\netcoreapp3.1\Traine.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS_Project\StudyProg\Task7\Traine\obj\Debug\netcoreapp3.1\Traine.AssemblyInfoInputs.cache
+D:\VS_Project\StudyProg\Task7\Traine\obj\Debug\netcoreapp3.1\Traine.AssemblyInfo.cs
+D:\VS_Project\StudyProg\Task7\Traine\obj\Debug\netcoreapp3.1\Traine.csproj.CoreCompileInputs.cache
+D:\VS_Project\StudyProg\Task7\Traine\obj\Debug\netcoreapp3.1\Traine.dll
+D:\VS_Project\StudyProg\Task7\Traine\obj\Debug\netcoreapp3.1\Traine.pdb
+D:\VS_Project\StudyProg\Task7\Traine\obj\Debug\netcoreapp3.1\Traine.genruntimeconfig.cache
